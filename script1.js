@@ -1,1 +1,3 @@
-alert("Script1);
+var texte = "Script1";
+alert(texte)
+
